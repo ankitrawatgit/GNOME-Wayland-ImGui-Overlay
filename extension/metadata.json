@@ -1,0 +1,7 @@
+{
+  "uuid": "gnome-imgui-overlay@ankitrawat",
+  "name": "GNOME ImGui Overlay Controller",
+  "description": "Automatically sizes the GNOME ImGui overlay and keeps it above normal windows.",
+  "shell-version": ["48", "49", "50"],
+  "version": 1
+}
